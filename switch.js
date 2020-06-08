@@ -10,6 +10,7 @@ switch (Antoine.age) {
           break
       case 25 :
           console.log ("Bravo tu as 25 ans")
+          break
       default : 
           console.log ("Joyeux anniversaire")
 }
